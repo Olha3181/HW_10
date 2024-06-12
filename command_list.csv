@@ -243,3 +243,11 @@
   243  git checkout main
   244  git merge develop
   245  git log
+  246  history 0 > command_list.csv
+  247  git add .
+  248  git status
+  249  git commit -m "created a new file command_list.csv"
+  250  git push
+  251  git push
+  252  git push
+  253  git push
